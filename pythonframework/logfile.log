@@ -1,0 +1,29 @@
+2020-11-05 18:48:18,099 :INFO : test_e2e : *****Testcase 1 :Compare Mobile Testcase*****
+2020-11-05 18:48:21,560 :DEBUG : test_e2e : Successfully clicked on compare
+2020-11-05 18:48:21,560 :DEBUG : test_e2e : User is nevigated to Comparision Page
+2020-11-05 18:49:56,188 :INFO : test_e2e : *****Testcase 1 :Compare Mobile Testcase*****
+2020-11-05 18:50:03,916 :DEBUG : test_e2e : Successfully clicked on compare
+2020-11-05 18:50:03,916 :DEBUG : test_e2e : User is nevigated to Comparision Page
+2020-11-05 18:50:05,261 :DEBUG : test_e2e : Successfully entered the mobile name to search from Excel
+2020-11-05 18:50:05,262 :DEBUG : test_e2e : User is able to see comparision of selected mobiles
+2020-11-05 18:50:05,610 :INFO : test_e2e : {'Mobile Names': ['Samsung Galaxy M51', 'Samsung Galaxy M31s', 'Samsung Galaxy M31'], 'Battery Rating': ['7000 mAh', '6000 mAh', '6000 mAh']}
+2020-11-05 18:50:05,610 :DEBUG : test_e2e : Successfully get the mobile name and battery rating into dictionary
+2020-11-05 18:50:06,417 :DEBUG : test_e2e : Successfully written data into Excel file from dictionary
+2020-11-05 18:50:06,417 :INFO : test_e2e : *****END : Testcase 1*****
+
+2020-11-05 18:52:44,501 :INFO : test_e2e : *****Testcase 1 :Compare Mobile Testcase*****
+2020-11-05 18:52:51,129 :DEBUG : test_e2e : Successfully clicked on compare
+2020-11-05 18:52:51,129 :DEBUG : test_e2e : User is nevigated to Comparision Page
+2020-11-05 18:56:00,004 :INFO : test_e2e : *****Testcase 1 :Compare Mobile Testcase*****
+2020-11-05 18:56:05,230 :DEBUG : test_e2e : Successfully clicked on compare
+2020-11-05 18:56:05,231 :DEBUG : test_e2e : User is nevigated to Comparision Page
+2020-11-05 18:56:45,335 :INFO : test_e2e : *****Testcase 1 :Compare Mobile Testcase*****
+2020-11-05 18:56:51,931 :DEBUG : test_e2e : Successfully clicked on compare
+2020-11-05 18:56:51,931 :DEBUG : test_e2e : User is nevigated to Comparision Page
+2020-11-05 18:56:53,532 :DEBUG : test_e2e : Successfully entered the mobile name to search from Excel
+2020-11-05 18:56:53,532 :DEBUG : test_e2e : User is able to see comparision of selected mobiles
+2020-11-05 18:56:53,664 :INFO : test_e2e : {'Mobile Names': ['Samsung Galaxy M51', 'Samsung Galaxy M31s', 'Samsung Galaxy M31'], 'Battery Rating': ['7000 mAh', '6000 mAh', '6000 mAh']}
+2020-11-05 18:56:53,665 :DEBUG : test_e2e : Successfully get the mobile name and battery rating into dictionary
+2020-11-05 18:56:54,546 :DEBUG : test_e2e : Successfully written data into Excel file from dictionary
+2020-11-05 18:56:54,546 :INFO : test_e2e : *****END : Testcase 1*****
+
